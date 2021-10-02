@@ -1,0 +1,11 @@
+.anchor{
+    list-style-type: none;
+    display: inline;
+}
+img{
+    transition: all 0.2s ease-in-out;
+    border-radius: 15px;
+}
+img:hover{
+    transform: scale(0.85);
+}
